@@ -50,8 +50,8 @@ The raw data was transformed into a multi-perspective interactive dashboard.
 - **Customer Satisfaction (Horizontal Bar Chart):** Measures Average Review Rating across subscription statuses.
 - **Seasonal Slicer (Dynamic Buttons):** Allows stakeholders to filter the entire dashboard by Fall, Spring, Summer, or Winter dynamically.
 
-*(Note: Add your dashboard screenshot image here using HTML or Markdown tags)*
-<!-- <img src="your-dashboard-screenshot.png" width="100%"> -->
+<img width="1287" height="721" alt="image" src="https://github.com/user-attachments/assets/7aa4c265-af78-4807-bb9c-2603e3c5c9db" />
+
 
 ---
 
