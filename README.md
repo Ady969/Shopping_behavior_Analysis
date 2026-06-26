@@ -27,7 +27,7 @@ Before loading the data into Power BI, Python was used to ensure data integrity 
 2. **KPI Baseline:** Calculated overall Total Revenue, Average Purchase Amount, and Unique Customer counts.
 3. **Deep-Dive Segmentation:** Grouped purchase amounts by Gender and custom Age Bins (`18-30`, `31-50`, `51+`) using Pandas grouping logic.
 
-*You can find the full executable notebook file (`.ipynb`) in this repository.*
+👉 **[View the Complete Python Notebook Here](https://github.com/Ady969/Shopping_behavior_Analysis/blob/main/Shopping_behavior_Colab.ipynb)**
 
 ---
 
