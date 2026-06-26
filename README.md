@@ -63,8 +63,3 @@ Based on the dashboard analytics, here are the strategic recommendations for the
 3. **Subscription Program Revamp:** Since subscribers and non-subscribers show closely matching average ratings (~3.8 to 3.9), the product quality is consistent, but subscription benefits (discounts, exclusive shipping) need to be marketed aggressively to convert high-spending non-subscribers.
 
 ---
-
-## 🚀 How to Run this Project Locally
-1. Clone this repository.
-2. Open the Python Notebook in **Google Colab** and upload the `customer_shopping_behavior_1.csv` file.
-3. Open the `.pbix` file in **Power BI Desktop** to interact with the dashboard.
